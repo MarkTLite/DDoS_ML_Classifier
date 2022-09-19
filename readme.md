@@ -6,7 +6,7 @@ Input values from a network such as Packet Count, Received bytes for the machine
 These inputs are passed to a pipeline of SVM, logistic regression, Naive Bayes and KNN and their predictions along with the data are finally fed to a Random Forest Classifier.
 
 ## Link to deployed app
-[Click here](https://https://marktlite-ddos-ml-classifier-streamlit-app-y78xa8.streamlitapp.com/)
+[Click here](https://marktlite-ddos-ml-classifier-streamlit-app-y78xa8.streamlitapp.com/)
 
 ### Sample Data
 Packet Count: 45304 <br>
