@@ -2,9 +2,9 @@
 
 ## Brief Description
 In a DDoS attack, several negotiated computers are used to target network resources and servers resulting in the denial of a service to a legitimate user. In this app, 
-input values from a network such as Packet Count, Received bytes for the machine learning based model to detect Distributed Denial of Service(DDoS) attacks.
+you input values from a network such as Packet Count, Received bytes for the machine learning based model to detect Distributed Denial of Service(DDoS) attacks.
 
-These inputs are passed to a pipeline of SVM, logistic regression, Naive Bayes and KNN and their predictions along with the data are finally fed to a Random Forest Classifier.
+These inputs are passed to a pipeline of SVM, logistic regression, Naive Bayes and KNN. Then their predictions along with the data are finally fed to a Random Forest Classifier.
 
 ## Link to deployed app
 [Click here](https://marktlite-ddos-ml-classifier-streamlit-app-y78xa8.streamlitapp.com/)
